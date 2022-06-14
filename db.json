@@ -1,0 +1,19 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "alterEgo": "Pizza Item"
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "alterEgo": "Burger Item"
+    },
+    {
+      "id": 3,
+      "name": "Sandwich",
+      "alterEgo": "Sandwich Item"
+    }
+  ]
+}
